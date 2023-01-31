@@ -1,6 +1,6 @@
-### Hi there, i'm Matias 👋
+<h1 align="center">Hi, I'm Matias 👋 </h1>
 
-I'm a python developer and a lover of the computer cience, I started programming since I was 14 years old actually I'm 18. Since then I've been focused on
+I'm a python developer and a lover of the computer science, I started programming since I was 14 years old actually I'm 18. Since then I've been focused on
 the backend, with frameworks like django and flask, then I improved my skills learning libraries how django REST,JWT tokens and a little of testing. 
 
 ### Connect with me :ok_hand:
@@ -24,7 +24,7 @@ the backend, with frameworks like django and flask, then I improved my skills le
 <div/>    
     
 ## Working on... 
-- A system with sales point, inventory manager and hours calculator from employees (Django REST and Jquery)
+- A system with sales point, inventory manager and employees hours calculator (Django REST and Jquery)
 - A web aplication about products with a price manager based on diferents variables (Django and Jquery)
 - My profile
 
@@ -42,7 +42,7 @@ the backend, with frameworks like django and flask, then I improved my skills le
 - <a href="https://www.hackerrank.com/certificates/8a45ea52a5b1">SQL (Basic) <a/> 
 - <a href="https://www.udemy.com/certificate/UC-e3aacdb7-7b30-4517-849f-7252326fd51c/">SQL (Basic) Udemy <a/> 
 - <a href="https://www.udemy.com/certificate/UC-c23f40b5-f8ae-47ec-b1b9-3944f853b904/"> Web Scraping for Data Science - Python & Selenium - Basics <a/> 
-- <a href="https://www.mercadopago.com.ar/developers/panel/certification/cert_3c461770fd5511ecbed90242ac130004"> Checkout Pro examn of Mercadopago Argentina<a/>
+- <a href="https://www.mercadopago.com.ar/developers/panel/certification/cert_3c461770fd5511ecbed90242ac130004"> Checkout Pro Mercadopago Argentina<a/>
 
     
 <!--
