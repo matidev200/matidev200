@@ -28,11 +28,12 @@ I'm a Python developer and a computer science enthusiast. I started programming 
 - My profile
 
 ## I'm currently learn...
-- Microservices
-- AWS
-- Docker and Docker-compose
-- Web vulnerabilities
-- How to optimize my code
+- Vim
+- AWS (S3, EC2, ElastiCache)
+- Websockets
+- Django-Channels
+- Data Algorithms
+- My live-chat "conConfianza"
     
 ## My Certifications :mortar_board:
 - <a href="https://www.efset.org/cert/na1ey6">EFSET English Certificate 49/100 (B1 Intermediate)<a/>
