@@ -23,17 +23,16 @@ I'm a Python developer and a computer science enthusiast. I started programming 
 <div/>    
     
 ## Working on... 
-- A system with sales point, inventory manager and employees hours calculator (Django REST and Jquery)
-- A web aplication about products with a price manager based on diferents variables (Django and Jquery)
-- My profile
-- My live-chat "conConfianza"
+- Ticketek Argentina
+- E-commerce project for my agency
+- My Profile
 
 ## I'm currently learn...
-- Vim
-- AWS (S3, EC2, ElastiCache)
-- Websockets
-- Django-Channels
-- Data Algorithms
+- Linux
+- Django REST
+- Docker
+- SQL
+- Marketing
     
 ## My Certifications :mortar_board:
 - <a href="https://www.efset.org/cert/na1ey6">EFSET English Certificate 49/100 (B1 Intermediate)<a/>
