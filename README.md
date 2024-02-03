@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Matias 👋 </h1>
 
-I'm a Python developer and a computer science enthusiast. I started programming at the age of 14 and I'm currently 18. Since then, I've primarily focused on backend development, using frameworks such as Django and Flask. I've also expanded my skills by learning libraries such as Django REST, JWT tokens, and a bit of testing.
+I'm a Python developer and a computer science enthusiast. I started programming at the age of 14 and I'm currently 19. Since then, I've primarily focused on backend development, using frameworks such as Django and Flask. I've also expanded my skills by learning libraries such as Django REST, JWT tokens, and a bit of testing.
 
 ### Connect with me :ok_hand:
 <div>
