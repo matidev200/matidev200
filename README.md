@@ -1,60 +1,56 @@
-<h1 align="center">Hi, I'm Matias 👋 </h1>
+<h2 align="center">Hi, I'm Matias 👋</h2>
 
-I'm a Python developer and a computer science enthusiast. I started programming at the age of 14 and I'm currently 19. Since then, I've primarily focused on backend development, using frameworks such as Django and Flask. I've also expanded my skills by learning libraries such as Django REST, JWT tokens, and a bit of testing.
+###
 
-### Connect with me :ok_hand:
-<div>
- <a href="https://www.linkedin.com/in/matias-de-vito-90924423b/"> <img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo.png" width=3% height=3%> <a/>
- <a href="https://www.hackerrank.com/matiasdv1"> <img src="https://sr-marketplace-prod.s3.amazonaws.com/wp-content/uploads/2015/08/HackerRank1.png" width=3% height=3% hspace="20"><a/>
- <a href="https://www.freelancer.com/u/matiasdv1"> <img src="https://seeklogo.com/images/F/freelancer-com-logo-2B5CE1A961-seeklogo.com.png" width=3% height=3% hspace="5"> <a/>
-<div/>
+<br clear="both">
 
-## My Skills
-<div>
-    <img src="https://img.shields.io/badge/-Django-0C4B33?logo=django&logoColor=white&logoWidth=30" hspace="5"> 
-    <img src="https://img.shields.io/badge/-Python-2b5b84?logo=python&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-JavaScript-fcdc00?logo=javascript&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-Git-f05133?logo=git&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-Bootstrap-6D10F4?logo=Bootstrap&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-HTML5-E54C21?logo=HTML5&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-Postgresql-2F6792?logo=Postgresql&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-Flask-252525?logo=flask&logoColor=white&logoWidth=30" hspace="5">
-    <img src="https://img.shields.io/badge/-Linux-gray?logo=linux&logoColor=white&logoWidth=30" hspace="5">
-<div/>    
-    
-## Working on... 
-- Ticketek Argentina
-- E-commerce project for my agency
-- My Profile
+<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI1ZGRiN29hamFlNzVpa2d0bHVwNXVieHU5MmFzNmxncGN1ejdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WxD5WgWyik3ZTvzswx/giphy.gif"  />
 
-## I'm currently learn...
-- Linux
-- Django REST
-- Docker
-- SQL
-- Marketing
-    
-## My Certifications :mortar_board:
-- <a href="https://www.efset.org/cert/na1ey6">EFSET English Certificate 49/100 (B1 Intermediate)<a/>
-- <a href="https://www.hackerrank.com/certificates/0167d867f8d5">Problem Solving (Basic)<a/>
-- <a href="https://www.hackerrank.com/certificates/138b62d99495">JavaScript (Basic)<a/> 
-- <a href="https://www.hackerrank.com/certificates/8a45ea52a5b1">SQL (Basic) <a/> 
-- <a href="https://www.udemy.com/certificate/UC-e3aacdb7-7b30-4517-849f-7252326fd51c/">SQL (Basic) Udemy <a/> 
-- <a href="https://www.udemy.com/certificate/UC-c23f40b5-f8ae-47ec-b1b9-3944f853b904/"> Web Scraping for Data Science - Python & Selenium - Basics <a/> 
-- <a href="https://www.mercadopago.com.ar/developers/panel/certification/cert_3c461770fd5511ecbed90242ac130004"> Checkout Pro Mercadopago Argentina<a/>
+###
 
-    
-<!--
-**matidev200/matidev200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">Hello everyone! I'm a passionate backend developer with over three years of experience working on professional projects, delivering scalable and efficient solutions to various entrepreneurs. I specialize in backend development, where my strong logic in coding enables me to transform ideas and business concepts into tangible applications.<br><br>In my journey as a backend developer, I've honed my skills in crafting robust architectures that handle high volumes of data while maintaining optimal performance. My expertise extends to database management, API development, and ensuring seamless integration between different components of a software ecosystem.</p>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+
+<h3 align="center">Skills 🧑‍💻</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django" height="37" alt="django logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="37" alt="nestjs logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=py" height="37" alt="python logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=ts" height="37" alt="typescript logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=docker" height="37" alt="docker logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=bash" height="37" alt="bash logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=linux" height="37" alt="linux logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=postman" height="37" alt="postman logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="37" alt="postgresql logo"  />
+</div>
+
+###
+
+###
+<br clear="both">
+<br clear="both">
+
+<br clear="both">
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/matias-de-vito-90924423b/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /><a/>
+  <a href="https://www.hackerrank.com/matiasdv1"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /><a/>
+</div>
+
+###
